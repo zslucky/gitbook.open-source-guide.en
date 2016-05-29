@@ -9,7 +9,7 @@
    * [Build tool](Tools/build_tool.md)
    * [Deploy platform](Tools/deploy_platform.md)
    * [App container](Tools/app_container.md)
-* [Example](example.md)
 * [Rule](Rule/rule.md)
    * Document
+* [Example](example.md)
 
