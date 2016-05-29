@@ -17,4 +17,5 @@
    * [License](Rule/license.md)
 * [Badge](badge.md)
 * [Example](example.md)
+   * As a contributor
 
