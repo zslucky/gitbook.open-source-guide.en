@@ -13,5 +13,6 @@
    * Document
    * Code styles
    * Unit test
+   * License
 * [Example](example.md)
 
