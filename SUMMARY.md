@@ -18,5 +18,5 @@
 * [Badge](badge.md)
 * [Example](example.md)
    * [As a contributor](Example/as_a_contributor.md)
-   * As a project owner
+   * [As a project owner](Example/as_a_project_owner.md)
 
