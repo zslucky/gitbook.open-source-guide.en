@@ -13,6 +13,6 @@
    * [Document](Rule/document.md)
    * [Code styles](Rule/code_styles.md)
    * [Unit test](Rule/unit_test.md)
-   * License
+   * [License](Rule/license.md)
 * [Example](example.md)
 
