@@ -16,4 +16,5 @@
    * [Unit test](Rule/unit_test.md)
    * [License](Rule/license.md)
 * [Example](example.md)
+* Badge
 
