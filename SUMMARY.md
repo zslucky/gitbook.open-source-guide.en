@@ -16,7 +16,7 @@
    * [Unit test](Rule/unit_test.md)
    * [License](Rule/license.md)
 * [Badge](badge.md)
-* [Example](example.md)
+* [Example](Example/example.md)
    * [As a contributor](Example/as_a_contributor.md)
    * [As a project owner](Example/as_a_project_owner.md)
 
