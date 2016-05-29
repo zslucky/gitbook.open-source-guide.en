@@ -5,7 +5,7 @@
    * [What we can do?](Quick_Look/what_we_can_do.md)
    * [Projects on github.](Quick_Look/projects_on_github.md)
 * [Tools](Tools/tools.md)
+   * [Repository](Tools/repository.md)
    * [Build tool](Tools/build.md)
    * [Deploy platform](Tools/deploy_platform.md)
-   * [Repository](Tools/repository.md)
 
