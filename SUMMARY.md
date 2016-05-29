@@ -10,5 +10,5 @@
    * [Deploy platform](Tools/deploy_platform.md)
    * [App container](Tools/app_container.md)
 * [Example](example.md)
-* Rule
+* [Rule](Rule/rule.md)
 
