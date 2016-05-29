@@ -7,5 +7,5 @@
 * [Tools](Tools/tools.md)
    * [Build tool](Tools/build.md)
    * [Deploy platform](Tools/deploy_platform.md)
-   * Repository
+   * [Repository](Tools/repository.md)
 
