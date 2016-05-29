@@ -10,7 +10,7 @@
    * [Deploy platform](Tools/deploy_platform.md)
    * [App container](Tools/app_container.md)
 * [Rule](Rule/rule.md)
-   * Document
+   * [Document](Rule/document.md)
    * Code styles
    * Unit test
    * License
