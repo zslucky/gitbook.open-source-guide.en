@@ -11,7 +11,7 @@
    * [App container](Tools/app_container.md)
 * [Rule](Rule/rule.md)
    * [Document](Rule/document.md)
-   * Code styles
+   * [Code styles](Rule/code_styles.md)
    * Unit test
    * License
 * [Example](example.md)
