@@ -19,5 +19,6 @@ Like build status, unit test coverage etc...
   [![npm version](https://badge.fury.io/js/fetch-utils.svg)](https://badge.fury.io/js/fetch-utils)
   [![npm](https://img.shields.io/npm/dm/localeval.svg?maxAge=2592000)]()
   [![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)]()
+  [![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)]()
   
 These badges are just a example, every platforms can provide its corresponding badge, also we can create badge from [Shields.io](http://shields.io/).
