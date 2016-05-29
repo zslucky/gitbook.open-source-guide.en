@@ -8,5 +8,5 @@
    * [Repository](Tools/repository.md)
    * [Build tool](Tools/build_tool.md)
    * [Deploy platform](Tools/deploy_platform.md)
-   * [App container](Tools/deploy_container.md)
+   * [App container](Tools/app_container.md)
 
