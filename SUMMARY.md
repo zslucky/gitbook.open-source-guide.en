@@ -9,7 +9,7 @@
    * [Build tool](Tools/build_tool.md)
    * [Deploy platform](Tools/deploy_platform.md)
    * [App container](Tools/app_container.md)
-   * Code check
+   * [Code check](Tools/code_check.md)
 * [Rule](Rule/rule.md)
    * [Document](Rule/document.md)
    * [Code styles](Rule/code_styles.md)
