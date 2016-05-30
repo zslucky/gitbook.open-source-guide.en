@@ -10,6 +10,7 @@
    * [Unit test](Rule/unit_test.md)
    * [License](Rule/license.md)
    * Change log
+   * How to contribute?
 * [Tools](Tools/tools.md)
    * [Repository](Tools/repository.md)
    * [Build tool](Tools/build_tool.md)
