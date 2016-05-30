@@ -1,8 +1,4 @@
 # License
-Different projects have different license, every license tells us what we can do with this project.
+Different projects have different license, every license tells us what we can do on this project.
 
-Follow licenses are used in many open source projects.
-
-1. [ISC](https://opensource.org/licenses/ISC)
-2. [MIT](https://opensource.org/licenses/MIT)
-3. ...
+Many licenses till now, we can refer [Open source initiative / License](https://opensource.org/licenses) here.
