@@ -9,7 +9,7 @@
    * [Code styles](Rule/code_styles.md)
    * [Unit test](Rule/unit_test.md)
    * [License](Rule/license.md)
-   * Change log
+   * [Change log](Rule/change_log.md)
    * How to contribute?
 * [Tools](Tools/tools.md)
    * [Repository](Tools/repository.md)
