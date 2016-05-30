@@ -18,7 +18,7 @@
    * [App container](Tools/app_container.md)
    * [Code check](Tools/code_check.md)
    * [Chat channel](Tools/chat_channel.md)
-   * Publish project Info
+   * [Publish project Info](Tools/publish_project_info.md)
 * [Badge](badge.md)
 * [Example](Example/example.md)
    * [As a contributor](Example/as_a_contributor.md)
