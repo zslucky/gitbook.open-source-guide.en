@@ -9,6 +9,7 @@
    * [Code styles](Rule/code_styles.md)
    * [Unit test](Rule/unit_test.md)
    * [License](Rule/license.md)
+   * Change log
 * [Tools](Tools/tools.md)
    * [Repository](Tools/repository.md)
    * [Build tool](Tools/build_tool.md)
