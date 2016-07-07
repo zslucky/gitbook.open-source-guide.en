@@ -11,7 +11,7 @@
    * [License](Rule/license.md)
    * [Change log](Rule/change_log.md)
    * [How to contribute?](Rule/how_to_contribute.md)
-   * Version Control
+   * [Version Control](Rule/version_control.md)
 * [Tools](Tools/tools.md)
    * [Repository](Tools/repository.md)
    * [Build tool](Tools/build_tool.md)
